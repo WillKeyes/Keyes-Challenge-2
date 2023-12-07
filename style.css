@@ -33,10 +33,10 @@ html {
   .lower-sidebar {
     position: absolute;
     font-size: 15pt;
-    top: 950px; /* Align with the top of the container */
+    top: 950px; 
     left: 15px;
     padding: 10px;
-    width: 250px; /* Adjust width as needed */
+    width: 250px; 
     box-sizing: border-box; /* Include padding in width */
   }
 
